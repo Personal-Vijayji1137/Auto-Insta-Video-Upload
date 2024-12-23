@@ -1,0 +1,5 @@
+setuptools
+selenium
+yt_dlp
+pyperclip
+undetected-chromedriver
